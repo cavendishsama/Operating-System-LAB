@@ -1,0 +1,2 @@
+/home/pooya/Desktop/2/q2/2.o
+
